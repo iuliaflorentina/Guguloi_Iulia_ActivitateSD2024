@@ -1,0 +1,5 @@
+﻿  Seminar1.c
+D:\CSIE an 2\sem 2\SDD\Seminar1\Seminar1\Seminar1.c(24,21): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\CSIE an 2\sem 2\SDD\Seminar1\Seminar1\Seminar1.c(27,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\CSIE an 2\sem 2\SDD\Seminar1\Seminar1\Seminar1.c(52,59): warning C4305: 'function': truncation from 'double' to 'float'
+  Seminar1.vcxproj -> D:\CSIE an 2\sem 2\SDD\Seminar1\x64\Debug\Seminar1.exe
