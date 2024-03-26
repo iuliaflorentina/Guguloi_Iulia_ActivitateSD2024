@@ -1,0 +1,7 @@
+﻿  Seminar6.c
+D:\CSIE an 2\sem 2\SDD\Seminar6\Seminar6\Seminar6.c(48,47): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\CSIE an 2\sem 2\SDD\Seminar6\Seminar6\Seminar6.c(49,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\CSIE an 2\sem 2\SDD\Seminar6\Seminar6\Seminar6.c(93,16): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\CSIE an 2\sem 2\SDD\Seminar6\Seminar6\Seminar6.c(102,16): warning C4553: '==': result of expression not used; did you intend '='?
+D:\CSIE an 2\sem 2\SDD\Seminar6\Seminar6\Seminar6.c(148,57): warning C4305: 'function': truncation from 'double' to 'float'
+  Seminar6.vcxproj -> D:\CSIE an 2\sem 2\SDD\Seminar6\x64\Debug\Seminar6.exe
